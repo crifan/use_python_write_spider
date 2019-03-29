@@ -1,0 +1,19 @@
+{
+  "title": "如何用Python写爬虫",
+  "description": "总结如何用Python去写爬虫，包括如何裸写爬虫代码，如何用Python库去写爬虫，如何用Python爬虫框架写爬虫，并给出实例详细解释具体的操作过程。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "use_python_write_spider"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/use_python_write_spider/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/use_python_write_spider/pdf/use_python_write_spider.pdf"
+    }
+  }
+}
