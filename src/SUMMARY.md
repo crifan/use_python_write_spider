@@ -2,7 +2,6 @@
 
 * [前言](README.md)
 * [Python爬虫简介](python_spider_intro/README.md)
-* [抓包分析](capture_http_package/README.md)
 * [裸写Python爬虫代码](scratch_write_python_spider/README.md)
 * [用Python库写爬虫代码](use_lib_write_python_spider/README.md)
 * [用Python框架写爬虫代码](use_framework_write_python_spider/README.md)
