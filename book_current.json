@@ -1,6 +1,6 @@
 {
   "title": "如何用Python写爬虫",
-  "description": "总结如何用Python去写爬虫，包括如何裸写爬虫代码，如何用Python库去写爬虫，如何用Python爬虫框架写爬虫，并给出实例详细解释具体的操作过程。",
+  "description": "总结如何用Python去写爬虫，包括如何裸写爬虫代码，如何用Python库去写爬虫，如何用Python爬虫框架写爬虫，并给出实例详细解释具体的操作过程，比如抓取百度首页中百度热榜标题列表。",
   "pluginsConfig": {
     "github-buttons": {
       "buttons": [
