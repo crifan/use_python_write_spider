@@ -1,5 +1,18 @@
 # 参考资料
 
+* 【记录】演示如何实现简单爬虫：用Python提取百度首页中百度热榜内容列表
+* 【已解决】用Python爬虫框架PySpider实现爬虫爬取百度热榜内容列表
+* 【已解决】PySpider中如何在单个页面返回多个结果保存到自带的Results页面中的列表中
+* 【已解决】PySpider抓包百度热榜标题列表结果
+* 【已解决】Mac中安装phantomjs
+* 【已解决】Mac中启动PySpider
+* 【已解决】Mac中pip安装pycurl报错：fatal error openssl/ssl.h file not found
+* 【已解决】Mac中给Python3安装PySpider
+* 【已解决】用Python纯内置库无第三方库实现爬虫爬取百度热榜内容列表
+* 【已解决】用Python3的urllib下载百度首页源码
+* 【已解决】Mac中用Chrome开发者工具分析百度首页的百度热榜内容加载逻辑
+* 【已解决】用Python代码获取到百度首页源码并提取保存百度热榜内容列表
+* 
 * [爬取你要的数据：爬虫技术](http://book.crifan.com/books/crawl_your_data_spider_technology/website)
 * [crifanLibPython](https://github.com/crifan/crifanLibPython/)
 * [getUrlRespHtml](https://github.com/crifan/crifanLibPython/blob/master/crifanLib/crifanHttp.py)
